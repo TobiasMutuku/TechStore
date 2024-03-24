@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+ <cartItem>
+  <id>1</id>
+  <item_id>2</item_id>
+  <user_id>0</user_id>
+  <bought>0</bought>
+ </cartItem>
+ <cartItem>
+  <id>3</id>
+  <item_id>2</item_id>
+  <user_id>2</user_id>
+  <bought>1</bought>
+ </cartItem>
+ <cartItem>
+  <id>4</id>
+  <item_id>4</item_id>
+  <user_id>2</user_id>
+  <bought>1</bought>
+ </cartItem>
+</items>

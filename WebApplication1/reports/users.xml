@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fruits>
+ <fruit>
+  <id>1011</id>
+  <name>Banana</name>
+  <price>30</price>
+  <description>These bananas come deep from Uganda and have been known to  help indigestive problems.</description>
+  <image>pngwing.com (1).png</image>
+ </fruit>
+ <fruit>
+  <id>1012</id>
+  <name>Peachyy</name>
+  <price>55</price>
+  <description>not even expensiveeeeeeeeeeeee</description>
+  <image>pngwing.com.png</image>
+ </fruit>
+ <fruit>
+  <id>1013</id>
+  <name>Dragon Fruit</name>
+  <price>100</price>
+  <description>these red fruits are quite the delicay in modern day chinatown.</description>
+  <image>pngwing.com (12).png</image>
+ </fruit>
+</fruits>

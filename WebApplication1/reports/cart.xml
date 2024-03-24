@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fruits>
+ <cartItem>
+  <id>3</id>
+  <fruit_id>1011</fruit_id>
+  <user_id>1002</user_id>
+  <bought>1</bought>
+ </cartItem>
+ <cartItem>
+  <id>6</id>
+  <fruit_id>1011</fruit_id>
+  <user_id>1002</user_id>
+  <bought>1</bought>
+ </cartItem>
+ <cartItem>
+  <id>7</id>
+  <fruit_id>1012</fruit_id>
+  <user_id>1002</user_id>
+  <bought>1</bought>
+ </cartItem>
+ <cartItem>
+  <id>8</id>
+  <fruit_id>1013</fruit_id>
+  <user_id>1002</user_id>
+  <bought>1</bought>
+ </cartItem>
+</fruits>

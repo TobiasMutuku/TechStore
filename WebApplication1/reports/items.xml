@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+ <item>
+  <id>2</id>
+  <name>Vga cable</name>
+  <price>3</price>
+  <description>VGA cables have been widely used for many years, although they are becoming less common as newer digital interfaces like HDMI and DisplayPort gain popularity.</description>
+  <image>pngwing.com (5).png</image>
+ </item>
+ <item>
+  <id>3</id>
+  <name>Vga cable</name>
+  <price>3</price>
+  <description>VGA cables have been widely used for many years, although they are becoming less common as newer digital interfaces like HDMI and DisplayPort gain popularity.</description>
+  <image>pngwing.com (5).png</image>
+ </item>
+ <item>
+  <id>4</id>
+  <name>Acer gaming Pc</name>
+  <price>1230</price>
+  <description>Unleash the extraordinary world of gaming with our meticulously crafted Gaming PC - a powerhouse that elevates your gaming experience to unparalleled heights. </description>
+  <image>pngwing.com (4).png</image>
+ </item>
+ <item>
+  <id>5</id>
+  <name>Hp core i7 16gb Ram Gaming pc</name>
+  <price>3404</price>
+  <description>Immerse yourself in the amazing world of the gaming industry with the industries top leading gaming pc with nvidea.</description>
+  <image>pngwing.com (3).png</image>
+ </item>
+ <item>
+  <id>6</id>
+  <name>Gaming pc Motherboard</name>
+  <price>235</price>
+  <description>Gaming pc motherboard with support for core i7 and even the new i9 processor</description>
+  <image>pngwing.com (2).png</image>
+ </item>
+ <item>
+  <id>7</id>
+  <name>Cruzerblade </name>
+  <price>12</price>
+  <description>The first flash disk that compromises between performance and good looks.</description>
+  <image>pngwing.com (1).png</image>
+ </item>
+ <item>
+  <id>8</id>
+  <name>3 Gb Ram</name>
+  <price>45</price>
+  <description>top notch DDR3 double inline memory module.</description>
+  <image>pngwing.com.png</image>
+ </item>
+</items>

@@ -1,0 +1,13 @@
+﻿<!DOCTYPE orders [
+  <!ELEMENT orders (order+)>
+  <!ELEMENT order (itemId, userId, bought, itemName, price, description, image, email, address, phone, username)>
+  <!ELEMENT itemId (#PCDATA)>
+  <!ELEMENT userId (#PCDATA)>
+  <!ELEMENT bought (#PCDATA)>
+  <!ELEMENT itemName (#PCDATA)>
+  <!ELEMENT price (#PCDATA)>
+  <!ELEMENT description (#PCDATA)>
+  <!ELEMENT image (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT address (#PCDATA)>
+  <!ELEMENT phon

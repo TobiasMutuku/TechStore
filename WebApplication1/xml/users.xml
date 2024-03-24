@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+ <user>
+  <id>1</id>
+  <name>duncan</name>
+  <password>touchdown</password>
+  <email>duncan@gmail.com</email>
+  <role>0</role>
+  <address>640,20300</address>
+  <phone>25782293</phone>
+ </user>
+ <user>
+  <id>2</id>
+  <name>jane</name>
+  <password>wonder</password>
+  <email>woman@yahoo.com</email>
+  <role>1</role>
+  <address>elm street,250 yirkshire</address>
+  <phone>673789334</phone>
+ </user>
+</users>

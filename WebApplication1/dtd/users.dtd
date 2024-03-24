@@ -1,0 +1,11 @@
+﻿<!DOCTYPE users [
+  <!ELEMENT users (user+)>
+  <!ELEMENT user (id, name, password, email, role, address?, phone?)>
+  <!ELEMENT id (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT password (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT role (#PCDATA)>
+  <!ELEMENT address (#PCDATA)>
+  <!ELEMENT phone (#PCDATA)>
+]>

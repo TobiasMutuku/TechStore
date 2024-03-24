@@ -1,0 +1,8 @@
+﻿<!DOCTYPE items [
+  <!ELEMENT items (cartItem+)>
+  <!ELEMENT cartItem (id, item_id, user_id, bought)>
+  <!ELEMENT id (#PCDATA)>
+  <!ELEMENT item_id (#PCDATA)>
+  <!ELEMENT user_id (#PCDATA)>
+  <!ELEMENT bought (#PCDATA)>
+]>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<orders>
+ <order>
+  <itemId>2</itemId>
+  <userId>2</userId>
+  <bought>1</bought>
+  <itemName>Vga cable</itemName>
+  <price>3</price>
+  <description>VGA cables have been widely used for many years, although they are becoming less common as newer digital interfaces like HDMI and DisplayPort gain popularity.</description>
+  <image>pngwing.com (5).png</image>
+  <email>woman@yahoo.com</email>
+  <address>elm street,250 yirkshire</address>
+  <phone>673789334</phone>
+  <username>jane</username>
+ </order>
+ <order>
+  <itemId>4</itemId>
+  <userId>2</userId>
+  <bought>1</bought>
+  <itemName>Acer gaming Pc</itemName>
+  <price>1230</price>
+  <description>Unleash the extraordinary world of gaming with our meticulously crafted Gaming PC - a powerhouse that elevates your gaming experience to unparalleled heights. </description>
+  <image>pngwing.com (4).png</image>
+  <email>woman@yahoo.com</email>
+  <address>elm street,250 yirkshire</address>
+  <phone>673789334</phone>
+  <username>jane</username>
+ </order>
+</orders>

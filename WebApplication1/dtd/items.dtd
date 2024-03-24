@@ -1,0 +1,9 @@
+﻿<!DOCTYPE items [
+  <!ELEMENT items (item+)>
+  <!ELEMENT item (id, name, price, description, image)>
+  <!ELEMENT id (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT price (#PCDATA)>
+  <!ELEMENT description (#PCDATA)>
+  <!ELEMENT image (#PCDATA)>
+]>

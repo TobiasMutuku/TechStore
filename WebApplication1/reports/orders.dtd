@@ -1,0 +1,53 @@
+<?xml encoding="utf-8"?>
+
+<!ELEMENT orders (order)+>
+<!ATTLIST orders
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT order (fruitId,userId,bought,fruitName,price,description,image,email,address,phone,username)>
+<!ATTLIST order
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT fruitId (#PCDATA)>
+<!ATTLIST fruitId
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT userId (#PCDATA)>
+<!ATTLIST userId
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT bought (#PCDATA)>
+<!ATTLIST bought
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT fruitName (#PCDATA)>
+<!ATTLIST fruitName
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST price
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST description
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT image (#PCDATA)>
+<!ATTLIST image
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT address (#PCDATA)>
+<!ATTLIST address
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT username (#PCDATA)>
+<!ATTLIST username
+    xmlns CDATA #FIXED ''>
